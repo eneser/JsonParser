@@ -1,0 +1,15 @@
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\bin\Debug\net6.0\JsonParseList.exe
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\bin\Debug\net6.0\JsonParseList.deps.json
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\bin\Debug\net6.0\JsonParseList.runtimeconfig.json
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\bin\Debug\net6.0\JsonParseList.dll
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\bin\Debug\net6.0\JsonParseList.pdb
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.csproj.AssemblyReference.cache
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.AssemblyInfoInputs.cache
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.AssemblyInfo.cs
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.csproj.CoreCompileInputs.cache
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.dll
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\refint\JsonParseList.dll
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.pdb
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\JsonParseList.genruntimeconfig.cache
+C:\Users\EnesErcan\source\repos\JsonParseList\JsonParseList\obj\Debug\net6.0\ref\JsonParseList.dll
